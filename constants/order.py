@@ -1,0 +1,6 @@
+PLACED = 'placed'
+SHIPPED = 'shipped'
+REFUNDED = 'refunded'
+RECEIVED = 'received'
+
+ORDER_STATUSES = [PLACED, SHIPPED, REFUNDED, RECEIVED]

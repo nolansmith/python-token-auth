@@ -1,0 +1,4 @@
+from os import environ
+
+SQLALCHEMY_DATABASE_URI = environ.get('POSTGRES_CONN_STRING')
+SQLALCHEMY_TRACK_MODIFICATIONS = False

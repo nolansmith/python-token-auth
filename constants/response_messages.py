@@ -1,0 +1,1 @@
+LOGOUT_SUCCESSFUL = 'Logged out successfully.'
