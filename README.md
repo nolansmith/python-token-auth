@@ -1,4 +1,5 @@
-# POTS Back End
+# Pretty sweet starting point for messing with token based auth
+## She can check a token, create a token, blacklist a token
 
 ### Cloning the Repo
 ```
